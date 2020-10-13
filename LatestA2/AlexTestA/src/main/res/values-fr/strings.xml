@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatestA</string>
+    <string name="button1">bouton1</string>
+    <string name="button2">bouton2</string>
+    <string name="button3">bouton3</string>
+    <string name="Hello">Hello World!</string>
+</resources>
